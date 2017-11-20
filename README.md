@@ -1,5 +1,6 @@
 # Eigenfaces
 CSE 455 Project 2: Eigenfaces. Written in Matlab
+
 I did not do the extra credits in this assignment, but perharps in the future I will :)
 
 Some screenshots:
